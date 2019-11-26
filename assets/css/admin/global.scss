@@ -1,0 +1,25 @@
+.vich-image {
+  > a > img {
+    max-width: 200px;
+    max-height: 200px;
+  }
+}
+
+.sonata-ba-list-field-image {
+  div > img {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-size: cover;
+  }
+}
+
+.sonata-ba-list {
+  > tbody > tr > td {
+    vertical-align: middle;
+  }
+}
+
+body {
+  background-color: lightgray;
+}

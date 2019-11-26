@@ -1,0 +1,28 @@
+admin:
+  topbar:
+    logout: Logout
+  menu:
+    groups:
+      news: Actualités
+  crud:
+    blog:
+      label: blog
+      new: New
+      title: Title
+      body: Text
+      image: Image
+      draft: Draft
+      category: Category
+    category:
+      label: category
+      name: Name
+
+front:
+  login:
+    form:
+      title: BO access
+      paragraph: Login
+      username: Username
+      password: Password
+      login: Login
+      email-not-found: Email could not be found.

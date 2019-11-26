@@ -1,0 +1,23 @@
+.logo {
+    > img {
+      border-radius: 50%;
+      width: 40px;
+      height: 40px;
+    }
+
+  > span {
+    font-size: 18px;
+  }
+}
+
+.logout {
+  display: flex;
+  line-height: 50px;
+  flex-flow: row;
+  justify-content: flex-end;
+  padding-right: 15px;
+
+  > a {
+    color: red;
+  }
+}

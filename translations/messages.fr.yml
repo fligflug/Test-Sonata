@@ -1,0 +1,28 @@
+admin:
+  topbar:
+    logout: Déconnexion
+  menu:
+    groups:
+      news: Actualités
+  crud:
+    blog:
+      label: Blog
+      new: Article
+      title: Titre
+      body: Texte
+      image: Image
+      draft: Brouillon
+      category: Catégorie
+    category:
+      label: Catégorie
+      name: Nom
+
+front:
+  login:
+    form:
+      title: Accès Backoffice
+      paragraph: Identifiez-vous
+      username: Identifiant
+      password: Mot de passe
+      login: Connexion
+      email-not-found: L'adresse email renseignée est introuvable.
